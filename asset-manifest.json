@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Signup-react-firebase/static/css/main.17b232b1.css",
+    "main.js": "/Signup-react-firebase/static/js/main.6861a161.js",
+    "static/js/453.4759f8d2.chunk.js": "/Signup-react-firebase/static/js/453.4759f8d2.chunk.js",
+    "index.html": "/Signup-react-firebase/index.html",
+    "main.17b232b1.css.map": "/Signup-react-firebase/static/css/main.17b232b1.css.map",
+    "main.6861a161.js.map": "/Signup-react-firebase/static/js/main.6861a161.js.map",
+    "453.4759f8d2.chunk.js.map": "/Signup-react-firebase/static/js/453.4759f8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b232b1.css",
+    "static/js/main.6861a161.js"
+  ]
+}
